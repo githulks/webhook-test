@@ -16,5 +16,8 @@
     "nodejitsu"
   ],
   "author": "Jarrett Cruger",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ecstatic": "~0.4.2"
+  }
 }
