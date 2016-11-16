@@ -18,6 +18,6 @@
   "author": "Jarrett Cruger",
   "license": "MIT",
   "dependencies": {
-    "ecstatic": "~0.4.2"
+    "ecstatic": "~2.1.0"
   }
 }
